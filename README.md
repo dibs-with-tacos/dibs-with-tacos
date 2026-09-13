@@ -2,7 +2,7 @@
 
 I like building cool stuff. Great at shipping ~~AI slop~~ prod code 📈
 
-![Eureka](path/to/image.png)
+![Eureka](eureka.png)
 
 <!--
 **dibs-with-tacos/dibs-with-tacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
